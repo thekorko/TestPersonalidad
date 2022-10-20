@@ -46,7 +46,7 @@
         case 1:
           $pregunta = "¿Que te parece el calor del verano, en una playa tropical?";
           $next = 2;
-          $arr = array("Sinceramente eres un rarito.","Para ti las montañas y los arboles no son ni fu ni fa, probablemente seas un Burocrata.","Algo te llama de la naturaleza, te gusta la verga con mayonesa.","Eres un Hippie-Yippie, una persona muy feliz con poco y nada.","Que fruteas, boludo.");
+          $arr = array("Sinceramente eres un rarito.","Para ti las montañas y los arboles no son ni fu ni fa, probablemente seas un Burocrata.","Algo te llama de la naturaleza, talvez el verde y la madera. O bien te gusta viajar por el campo.","Eres un Hippie-Yippie, una persona muy feliz con poco y nada.","Que fruteas, boludo.");
           break;
         default:
           $pregunta = "Vivir en bosques montañosos, ¿Como te hace sentir?";
